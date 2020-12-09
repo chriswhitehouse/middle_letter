@@ -15,7 +15,7 @@ Used to review process:
 Finished
 
 ## Screenshots
-![Video of process](https://drive.google.com/file/d/1Za6DHFq2wM-r9RHmT9mrq1g8M00ShBXw/view?usp=sharing)
+[Video of process](https://drive.google.com/file/d/1Za6DHFq2wM-r9RHmT9mrq1g8M00ShBXw/view?usp=sharing)
 
 ## Tech/framework used
 Ruby
